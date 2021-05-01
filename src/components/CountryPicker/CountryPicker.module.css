@@ -1,0 +1,6 @@
+@import "~mdb-ui-kit/css/mdb.min.css";
+
+.formControl {
+  width: 30%;
+  margin-bottom: 30px !important;
+}
